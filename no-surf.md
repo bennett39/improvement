@@ -8,4 +8,4 @@
 - Write a paragraph
 - Pushups or squats
 
-[Home]()
+[Home](/)
