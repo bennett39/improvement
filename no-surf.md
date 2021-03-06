@@ -1,4 +1,4 @@
-## Instead of Surfing:
+## Instead of Surfing
 - Read a book
 - Practice guitar
 - Learn something new in Spanish, French, Italian
