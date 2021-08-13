@@ -1,4 +1,6 @@
-## Instead of Surfing
+## That won't make you happy.
+
+## Things that might:
 - Read a book
 - Practice guitar
 - Learn something new in Spanish, French, Italian
